@@ -1,0 +1,11 @@
+{
+ "name": "BIG BULL",
+ "website": "https://nexongame.net",
+ "description": "BULL Miracle Journey, Creating the Future.",
+ "explorer": "https://bscscan.com/address/0x7FF191c55C282B2057bC92D4DcfE57BAFd0C6b19",
+ "type": "BEP20",
+ "symbol": "BULL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7FF191c55C282B2057bC92D4DcfE57BAFd0C6b19"
+}
